@@ -1,8 +1,8 @@
 # goku-drop-shadow-animation
 
-##check it out: https://gleydsonbrito.github.io/goku-drop-shadow-animation/
+## check it out: https://gleydsonbrito.github.io/goku-drop-shadow-animation/
 
-###How to create shadow in png images
+### How to create shadow in png images
 
 ```
 :root {
